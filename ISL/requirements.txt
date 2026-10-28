@@ -1,0 +1,7 @@
+torch>=2.1
+torchvision>=0.16
+transformers>=4.40
+opencv-python>=4.8
+numpy>=1.26
+pillow>=10.0
+python-dotenv>=1.0
