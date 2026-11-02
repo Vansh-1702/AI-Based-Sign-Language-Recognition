@@ -1,9 +1,9 @@
-# 🇮🇳 Bi-Directional Indian Sign Language (ISL) – Speech Translation System
+# Bi-Directional Indian Sign Language (ISL) – Speech Translation System
 
 ### AI-Powered Sign Language Recognition Using CLIP and Temporal Transformers
 
 <p align="center">
-  <b>Bridging the communication gap between the Deaf and Hearing communities through Deep Learning.</b>
+  <b>Bridging the communication gap between Deaf and hearing communities through Deep Learning.</b>
 </p>
 
 ---
